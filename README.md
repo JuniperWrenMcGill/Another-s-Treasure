@@ -1,4 +1,4 @@
-# <Another's Treasure>
+# Another's Treasure
 
 ## Description
 
