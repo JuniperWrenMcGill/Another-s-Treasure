@@ -10,7 +10,7 @@ Another’s Treasure is here to foster connections, reduce waste, and build a st
 ## Table of Contents
 
 ## Installation
-You can view and contribute by clicking [here](https://anotherstreasure-20417965e1d9.herokuapp.com/).
+You can view and contribute by goint to [ https://anothers-treasure-c22388db08db.herokuapp.com/]( https://anothers-treasure-c22388db08db.herokuapp.com/).
 
 
 ## Usage
