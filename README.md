@@ -2,22 +2,16 @@
 
 ## Description
 
-As a community member who wants to be involved in community resouce sharing,
-I want to be able to view, share, and interact with posts regarding free community resources,
-So that I can participate in the community.
+Welcome to your one-stop destination for community resource sharing! A platform where neighbors can lend, borrow, and share resources. 
+Another’s Treasure is here to foster connections, reduce waste, and build a stronger, more collaborative community. It's resource sharing made easy for everyone!
 
-## Table of Contents (Optional)
+![Screengrab of site](./public/images/Finished.png)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+## Table of Contents
 
 ## Installation
+You can view and contribute by clicking [here](https://anotherstreasure-20417965e1d9.herokuapp.com/).
 
-URL: https://anotherstreasure-20417965e1d9.herokuapp.com/
 
 ## Usage
 
@@ -25,7 +19,29 @@ Upon loading the app, the user will see community posts that others have placed 
 
 In order to see more information, images, and to contact the poster, users will be guided to sign-up or log-in.
 
-Users are also able to create their own posts, as well as post images that pretain to their posts.
+Once logged in they will be able to email the user of the post for more details. 
+
+Users are also able to create and delete their own posts. 
+
+## Future Devolopments 
+
+1. **Update Post Function:**
+   - Provide users with the ability to edit their posts after they've been published. This feature will enhance user experience and allow for corrections or updates to be made.
+
+2. **Ability to Search by Location:**
+   - Implement a location-based search feature to allow users to discover content, events, or other users based on their geographical proximity. This could enhance local community engagement and networking.
+
+3. **Direct Messaging:**
+   - Introduce a direct messaging feature to enable private conversations between users. This will enhance user interaction, foster communication, and provide a more comprehensive platform experience.
+
+4. **Addition of Moderation Tools:**
+   - Develop moderation tools to empower platform administrators and community managers to monitor and manage user-generated content effectively. This will help maintain a positive and respectful online environment.
+
+5. **Post Like Feature:**
+   - Integrate a "like" or "thumbs up" feature for posts to allow users to express appreciation or agreement with content. This feature can contribute to community engagement and help surface popular or valuable content.
+
+6. **Ability to Add Images to Posts:**
+   - Expand post capabilities by allowing users to attach images to their posts. This can enhance content diversity and engagement, enabling users to share visual information and experiences.
 
 ## Credits
 
